@@ -18,7 +18,7 @@ _Itálico_ ou *Itálico* exactly as shown
 ou assim <https://github.com/eng-samantha/>
 
 ## Lists
-unordered (asterisk in the beginning):
+unordered (asterisk at the beginning):
 * Samantha
 * Mota
 * Pinto \
