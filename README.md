@@ -1,6 +1,6 @@
 # Getting-acquainted-w-github
 I'm just trying to understand how to use these new brand tools :p
-## (Two hashs) tands for h2 and so on as we can see below:
+## (Two hashs) stands for h2 and so on as we can see below:
 ### h3
 #### h4
 ##### h5
