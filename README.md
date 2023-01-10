@@ -29,7 +29,7 @@ ordered (number followed by a dot):
 2. Mota
 3. Pinto
 
-## adding images
+## Adding images
 ![almost like a href except for a ! mark](https://cdn-icons-png.flaticon.com/512/5460/5460486.png)
 
 ## Quote
