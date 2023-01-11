@@ -1,5 +1,5 @@
 # Getting-acquainted-w-github
-I'm just trying to understand how to use these new brand tools :p
+I'm just trying to understand how to use these brand new tools :p
 ## (Two hashs) stands for h2 and so on as we can see below:
 ### h3
 #### h4
